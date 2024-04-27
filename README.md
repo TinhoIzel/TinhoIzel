@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Opa, sou novo aqui!! 👋
+Mas espero aprender e evoluir como desenvolvedor!
 <!--
 **TinhoIzel/TinhoIzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
